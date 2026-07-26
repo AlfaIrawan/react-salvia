@@ -1,0 +1,12 @@
+﻿{
+    "name":  "react-salvia",
+    "service_id":  "frontend-salvia",
+    "version":  "0.0.0",
+    "routes":  [
+                   "/"
+               ],
+    "health":  {
+                   "status":  "ready"
+               }
+}
+
