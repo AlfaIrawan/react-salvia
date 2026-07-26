@@ -2,7 +2,7 @@
 
 > **Codename: Salvia**
 
-Enterprise Knowledge Management platform for organizing, searching, and sharing organizational knowledge. Same UI/UX as the sibling platform (react-sequoia); capabilities are limited to knowledge management only — **no AI Lifecycle Management** (no models, training, deployment, feedback, governance, portfolio).
+Enterprise Knowledge Management platform for organizing, searching, and sharing organizational knowledge. Shares the same UI/UX design system as sibling Digicorp frontends; capabilities are limited to knowledge management only — **no AI Lifecycle Management** (no models, training, deployment, feedback, governance, portfolio).
 
 *Salvia - Cultivating and sharing enterprise knowledge*
 
@@ -42,7 +42,7 @@ Salvia provides a consistent, enterprise-grade UI for Knowledge Management:
 
 ## Design
 
-- Same design system as react-sequoia: glassmorphism, compact density, light/dark theme, accent options
+- Shared Digicorp design system: glassmorphism, compact density, light/dark theme, accent options
 - Theme and preferences are stored under `salvia_theme` and `salvia_preferences` in localStorage (separate from other apps)
 
 ## Project Structure
@@ -80,7 +80,7 @@ npm install
 npm run dev
 ```
 
-App runs at **http://localhost:5177** (different port from react-sequoia).
+App runs at **http://localhost:5177**.
 
 ### Build
 

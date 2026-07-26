@@ -6,7 +6,7 @@
 
 ## 🎯 Module Objective
 
-Build the **Sequoia Dashboard** as the landing page and executive overview of the entire AI lifecycle. This dashboard provides high-level visibility without operational control.
+Build the **Salvia Dashboard** as the landing page and executive overview of enterprise knowledge. This dashboard provides high-level visibility without operational control.
 
 ## 🧩 Core Principles (WAJIB)
 
